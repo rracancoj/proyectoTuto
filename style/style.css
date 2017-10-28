@@ -74,7 +74,7 @@ header{width: auto;
 		justify-content: flex-end;
 		-webkit-justify-content: flex-end;
 		text-align: center;
-		background: rgba(250,250,250,.7);
+		background: rgba(120,50,40,.4);
 	}
 header.top{
 	position: fixed;
@@ -194,7 +194,7 @@ nav li:last-child a:last-child{color: #5fcf80;
 	 	        clear: both;}
 /* caja con fondo blanco y padding*/
 .page{padding: 10px;
-	 background: #eee;
+	 background: #39ee33;
 	 border-radius: 5px;
 	 margin: 10px 0;}
 
@@ -204,7 +204,7 @@ nav li:last-child a:last-child{color: #5fcf80;
 }
 
 .jumboBox{min-height: 350px;
-		background: #eee;
+		background: #383399;
 		  }
 .jumboBox h1,h2{font-size:40px;
 			font-family: Gafata,sans-serif;
